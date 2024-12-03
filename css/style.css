@@ -111,12 +111,12 @@
 }
 
 .bg-vegetable {
-    background: linear-gradient(rgba(52, 173, 84, .2), rgba(52, 173, 84, .2)), url(../img/vegetable.png) bottom right no-repeat;
+    background: linear-gradient(rgba(52, 173, 84, .2), rgba(52, 173, 84, .2)), url(../img/rempah.jpg) bottom right no-repeat;
     background-size: contain;
 }
 
 .bg-fruit {
-    background: linear-gradient(rgba(255, 153, 51, .2), rgba(255, 153, 51, .2)), url(../img/fruit.png) bottom right no-repeat;
+    background: linear-gradient(rgba(255, 153, 51, .2), rgba(255, 153, 51, .2)), url(../img/konsul.jpg) bottom right no-repeat;
     background-size: contain;
 }
 
@@ -183,7 +183,7 @@
     height: 55%;
     bottom: 0;
     left: 0;
-    background: url(../img/bg-product-1.png) left bottom no-repeat, url(../img/bg-product-2.png) right bottom no-repeat;
+    background: url(../img/Hrb.jpg) left bottom no-repeat, url(../img/Hrb.jpg) right bottom no-repeat;
     background-size: contain;
     background-color: var(--primary);
     z-index: -1;
@@ -216,7 +216,7 @@
 }
 
 .bg-testimonial {
-    background: url(../img/testimonial.jpg) top center no-repeat;
+    background: top center no-repeat;
     background-size: cover;
 }
 
